@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Las quesadillas llevan queso.
+          Salinas mató a Colosio.
         </p>
         <a
           className="App-link"
