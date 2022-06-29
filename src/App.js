@@ -1,6 +1,6 @@
 function App() {
   return (
-    <h1>Estoy usando mi cuenta 😵.</h1>
+    <h1>Nueva prueba (desde mi cuenta).</h1>
   );
 }
 
